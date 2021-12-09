@@ -1,0 +1,5 @@
+./*.sh
+exp/
+debug/
+train_test.sh
+.vscode
